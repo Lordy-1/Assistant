@@ -283,26 +283,7 @@
       "pricing": "free",
       "icon": "🗡️"
     },
-    {
-      "name": "HentaiHaven",
-      "url": "https://hentaihaven.com/",
-      "description": "18+ adult anime content platform. Large library of hentai series and OVAs. Adults only.",
-      "category": "anime",
-      "tags": ["free", "18+", "adult"],
-      "pricing": "free",
-      "icon": "🔞",
-      "adult": true
-    },
-    {
-      "name": "Hanime",
-      "url": "https://hanime.tv/home",
-      "description": "18+ premium adult anime streaming. HD quality hentai content library with regular updates. Adults only.",
-      "category": "anime",
-      "tags": ["free/paid", "18+", "adult"],
-      "pricing": "freemium",
-      "icon": "🔞",
-      "adult": true
-    },
+ 
     {
       "name": "Canva",
       "url": "https://www.canva.com/en_gb/",
@@ -483,23 +464,6 @@
       "pricing": "free",
       "icon": "⭐"
     },
-    {
-      "name": "NexoSites",
-      "url": "https://nexosites.xyz/",
-      "description": "Custom gaming community website builder. Create professional sites for your game server or community.",
-      "category": "personal",
-      "tags": ["free/paid", "websites", "gaming"],
-      "pricing": "freemium",
-      "icon": "🌐"
-    },
-    {
-      "name": "NexoriaRealm",
-      "url": "https://nexoriarealm.xyz/",
-      "description": "Gaming community and realm platform. Connect with players, manage your realm, and build your community.",
-      "category": "personal",
-      "tags": ["free/paid", "gaming", "community"],
-      "pricing": "freemium",
-      "icon": "🏰"
-    }
+    
   ]
 }
